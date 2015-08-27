@@ -3,9 +3,9 @@ A collection of frameworks, talks and resources about reactive programming in Sw
 
 ### Flags
 
-:blue_book:: Suggested to beginners and newcomers
-:godmode:: Suggested to advanced reactive programmers
-:trollface:: Fun and/or
+* :blue_book:: Suggested to beginners and newcomers
+* :godmode:: Suggested to advanced reactive programmers
+* :trollface:: Fun and/or
 
 ## Frameworks
 
