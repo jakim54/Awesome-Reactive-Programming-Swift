@@ -1,11 +1,11 @@
-# Awesome-Reactive-Programming-Swift
-A collection of frameworks, talks and resources about reactive programming in Swift
+# Awesome Reactive Programming in Swift
+A **curated** collection of frameworks, talks and resources about reactive programming in Swift
 
 ### Flags
 
 * :blue_book:: Suggested to beginners and newcomers
 * :godmode:: Suggested to advanced reactive programmers
-* :trollface:: Fun and/or
+* :trollface:: PEGI 16
 
 ## Frameworks
 
@@ -57,4 +57,4 @@ A collection of frameworks, talks and resources about reactive programming in Sw
 ## Contributors
 
 This page has been created by [bontoJR](https://www.twitter.com/bontoJR).
-Please feel free to contribute and list your name below.
+I will evaluate any new resources before adding them, but please feel free to contribute and list your name below.
