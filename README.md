@@ -27,6 +27,7 @@ A **curated** collection of frameworks, talks and resources about reactive progr
 * [A Swift Reaction](http://napora.org/a-swift-reaction/) - Yusef Napora
 * [Reactive Swift - My journey with reactive programming in Swift and the iOS app that came out of it](https://medium.com/swift-programming/reactive-swift-3b6050375534) - Agnes Vasarhelyi | :blue_book:
 * [Solving the binding problem with Swift](http://five.agency/solving-the-binding-problem-with-swift/) - Srđan Rašić (Not 100% related to Reactive Programming, but still a good read to understand the problem that RP solves)
+* [Climbing the Reactive Learning Curve](https://medium.com/@clozach/climbing-the-reactive-learning-curve-4a03fa8d17ae) - Chris Lozac'h |  :blue_book:
 
 ### General 
 
