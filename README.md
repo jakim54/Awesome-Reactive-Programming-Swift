@@ -28,6 +28,7 @@ A **curated** collection of frameworks, talks and resources about reactive progr
 * [Reactive Swift - My journey with reactive programming in Swift and the iOS app that came out of it](https://medium.com/swift-programming/reactive-swift-3b6050375534) - Agnes Vasarhelyi | :blue_book:
 * [Solving the binding problem with Swift](http://five.agency/solving-the-binding-problem-with-swift/) - Srđan Rašić (Not 100% related to Reactive Programming, but still a good read to understand the problem that RP solves)
 * [Climbing the Reactive Learning Curve](https://medium.com/@clozach/climbing-the-reactive-learning-curve-4a03fa8d17ae) - Chris Lozac'h |  :blue_book:
+* [Reactive Swift: upgrading to ReactiveCocoa 3.0](https://alltheflow.com/reactive-swift-upgrading-to-reactivecocoa-3-0/) - [Agnes Vasarhelyi](https://twitter.com/vasarhelyia)
 
 ### General 
 
@@ -46,6 +47,7 @@ A **curated** collection of frameworks, talks and resources about reactive progr
 * [Functional Reactive Awesomeness With Swift](https://realm.io/news/altconf-ash-furrow-functional-reactive-swift/) - Ash Furrow / 39:55 | :blue_book:
 * [Functional Reactive Programming without Black Magic](http://jensravens.de/uikonf-talk/) - Jens Ravens / 35:15
 * [State, Promises & Reactive Programming](https://realm.io/news/state-promises-reactive-programming/) - Yasuhiro Inami  / 33:57
+* [Reactive Cocoa and RX Principles 101](https://vimeo.com/121126582) - Uri Baghin / 43:24 
 
 ### General
 
