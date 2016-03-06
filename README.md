@@ -57,6 +57,12 @@ A **curated** collection of frameworks, talks and resources about reactive progr
 * [Functional programming design patterns](https://skillsmatter.com/skillscasts/6120-functional-programming-design-patterns-with-scott-wlaschin) - Scott Wlaschin / 109:10
 * [What does it mean to be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0) - Erik Meijer | :trollface:
 
+## Sample Code
+
+### Swift related
+
+* [Reactive Registration - demo of Reactive Cocoa 4 & MVVM](https://github.com/DanielCech/iOS-ReactiveRegistration) - Dan Čech | :blue_book:
+
 ## Contributors
 
 This page has been created by [bontoJR](https://www.twitter.com/bontoJR).
